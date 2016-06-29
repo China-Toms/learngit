@@ -1,15 +1,4 @@
 Git is a distributed version control system
 Git is free software
 Git has a mutable index called stage.
-第三次修改
-第四次修改
-第五次修改
-第六次
-第七次
-第八次
-第九次
-第十次
-mas branch 第十一次
-master branch 第十一次
-mas branch 第十二次
-vi edit 第十三次
+第十四次
