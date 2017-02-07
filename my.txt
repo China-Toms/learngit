@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ubuntu txt
+=======
+pc txt
+
+>>>>>>> 23fcf10d79a1ec7bf46456c48bde6af4fc78a954
